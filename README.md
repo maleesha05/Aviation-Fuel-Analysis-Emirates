@@ -16,5 +16,4 @@ Developed a predictive model to forecast fuel costs, Insights support strategic 
 **Skills Developed:** Python programming, data cleaning, time series analysis, regression modeling, business analytics
 
 ## Screenshot
-![ADA Poster](ada_poster.png)
-
+![ADA Poster](ada_poster1.png)
